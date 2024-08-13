@@ -3,7 +3,7 @@
   <h1> React-ChallengeHub </h1>
 </div>
 
-> [!NOTE]  
+> [!NOTE]   
 > This repository was created in 2024, so the questions reflect React syntax and features from that time. React evolves rapidly, and newer features may not be covered here.
 
 ---
