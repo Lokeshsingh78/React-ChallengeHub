@@ -7,7 +7,7 @@
 > This repository was created in 2024, so the questions reflect React syntax and features from that time. React evolves rapidly, and newer features may not be covered here.
 
 ---
-
+ 
 <p align="center">
 From basic to advanced: test your React knowledge, refresh your skills, or prepare for coding interviews! 💪🚀 I regularly update this repo with new questions. Answers are available in the **collapsed sections** below each question—just click to expand. Have fun and good luck! ❤️</p>
 
