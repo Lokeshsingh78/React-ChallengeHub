@@ -1,5 +1,5 @@
 <div align="center">
-   <img height="60" <img src="https://github.com/user-attachments/assets/9f63eddd-c0a7-4ed5-a7dc-f3d817c4c6af" height="60" alt="Image">
+   <img height="60" <img src="https://github.com/user-attachments/assets/9f63eddd-c0a7-4ed5-a7dc-f3d817c4c6af" height="60" alt="Image"> 
   <h1> React-ChallengeHub </h1>
 </div> 
  
